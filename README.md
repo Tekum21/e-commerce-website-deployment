@@ -1,4 +1,4 @@
-# e-commerce-website-deployment
+# e-commerce-website-deployment using Ansible & Terraform
 
 The CTO asked you to deploy an e-commerce system in the AWS cloud in less than 2hrs. The mission aims to determine if the viable product can be used to serve the company products. This is in line with the company’s cost savings initiatives.
 
